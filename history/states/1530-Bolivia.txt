@@ -5,8 +5,8 @@ state={
 		10587 10603 
 	}
 	history = {
-		owner = BLV 
-		add_core_of = BLV 
+		owner = CCA 
+		add_core_of = CCA 
 		buildings = {
 			infrastructure = 2
 		}

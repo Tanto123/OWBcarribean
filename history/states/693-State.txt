@@ -6,8 +6,8 @@ state={
 		725 10597
 	}
 	history = {
-		owner = SAA 
-		add_core_of = SAA 
+		owner = VNE 
+		add_core_of = VNE 
 		buildings = {
 			infrastructure = 2
 		}

@@ -140,13 +140,13 @@ SCC = {
 }
 
 PYS = {
-	color = rgb { 224 204 122 }
-	color_ui = rgb { 224 204 122 }
+	color = rgb { 242 220 12 }
+	color_ui = rgb { 242 220 12 }
 }
 
 VDM = {
-	color = rgb { 64 107 76 }
-	color_ui = rgb { 64 107 76 }
+	color = rgb { 97 93 55 }
+	color_ui = rgb { 97 93 55 }
 }
 
 SHB = {
@@ -155,6 +155,6 @@ SHB = {
 }
 
 PRJ = {
-	color = rgb { 102 74 52 }
-	color_ui = rgb { 102 74 52 }
+	color = rgb { 76 47 29 }
+	color_ui = rgb { 76 47 29 }
 }

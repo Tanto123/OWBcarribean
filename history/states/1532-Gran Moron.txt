@@ -5,8 +5,8 @@ state={
 		10590 10609 10611 
 	}
 	history = {
-		owner = GMO 
-		add_core_of = GMO 
+		owner = VGA 
+		add_core_of = VGA 
 		buildings = {
 			infrastructure = 2
 		}
