@@ -1,0 +1,93 @@
+characters={
+	HIG_salazar = {
+		name="Rey Santiago III Salazar"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/HIG/Salazar.dds"
+			}
+		}
+		country_leader = {
+			desc = "HIG_SALAZAR_DESC"
+			ideology = militarist_oligarchy
+			expire = "3000.01.01.01"
+			id = -1
+		}
+	}
+	HIG_salazar1 = {
+		name="Rey Santiago III Salazar"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/HIG/Salazar.dds"
+			}
+		}
+		country_leader = {
+			desc = "HIG_SALAZAR_DESC"
+			ideology = militarist_oligarchy
+			expire = "3000.01.01.01"
+			id = -1
+		}
+	}
+	USH_starko={
+		name="Starko"
+		portraits={
+			army={
+				small=""
+			}
+			army={
+				large="gfx/leaders/PIT/portrait_pit_general_2.dds"
+			}
+		}
+		corps_commander={
+			traits={ enduring_trait }
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	PIT_james_gregg={
+		name="James Gregg"
+		portraits={
+			civilian={
+				large="gfx/leaders/settler/portrait_settler_generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=theodemocracy
+			traits={ expert_negotiator quartermaster_general }
+			expire="2289.1.1.12"
+			id=-1
+		}
+	}
+	PIT_wade_scott={
+		name="Wade Scott"
+		portraits={
+			civilian={
+				large="gfx/leaders/brotherhood/portrait_brotherhood_generic_4.dds"
+			}
+		}
+		country_leader={
+			ideology=ideocracy
+			traits={ fortification_engineer armaments_organizer }
+			expire="2280.1.1.12"
+			id=-1
+		}
+	}
+	PIT_evander_warner={
+		name="Evander Warner"
+		portraits={
+			civilian={
+				large="gfx/leaders/settler/portrait_settler_generic_18.dds"
+			}
+		}
+		country_leader={
+			ideology=survivalism
+			traits={ captain_of_industry }
+			expire="2288.1.1.12"
+			id=-1
+		}
+	}
+	}
+}

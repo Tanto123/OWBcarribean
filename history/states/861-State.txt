@@ -1,0 +1,17 @@
+state = {
+	id = 861
+	name = "STATE_861"
+	provinces = {
+		10542 10551 10548
+	}
+	history = {
+		owner = PDR 
+		add_core_of = PDR 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 856
+	name = "STATE_856"
+	provinces = {
+		10159 10160 10161 10167 10195 10196 10200 10224 10238 10242 10247
+	}
+	history = {
+		owner = PCO 
+		add_core_of = PCO 
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor = 1.000
+}

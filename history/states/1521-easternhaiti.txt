@@ -1,0 +1,21 @@
+state = {
+	id = 1521
+	name = "STATE_1521"
+	provinces={
+		10279 10291 10342 10756
+	}
+	history = {
+		owner = YUA 
+		add_core_of = YUA 
+		victory_points = {
+			10342 2
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

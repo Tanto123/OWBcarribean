@@ -1,0 +1,22 @@
+state = {
+	id = 1522
+	name = "STATE_1522"
+	provinces={
+		10366 10745 10747 10750 10751 10752 10753 10755
+	}
+
+	history = {
+		owner = SDG 
+		add_core_of = SDG 
+		victory_points = {
+			10747 7
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

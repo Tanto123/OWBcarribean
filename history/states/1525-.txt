@@ -1,0 +1,21 @@
+state = {
+	id = 1525
+	name = "STATE_1525"
+	provinces={
+		10483 10466
+	}
+	history = {
+		owner = WSN 
+		add_core_of = WSN 
+		victory_points = {
+			10483 4
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

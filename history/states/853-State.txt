@@ -1,0 +1,36 @@
+state = {
+	id = 853
+	name = "STATE_853"
+	provinces = {
+		10241 10263 10278 10467 10488
+	}
+	history = {
+		owner = USH 
+		add_core_of = USH 
+		victory_points = {
+			10467 5
+		}
+		buildings = {
+			air_base = 1
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			10467 = {
+				bunker = 1
+				coastal_bunker = 1
+			}
+
+		}
+	}
+
+	resources = {
+		metal = 5
+		water = 5
+		energy = 5
+		circuitry = 3
+	}
+
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor = 1.000
+}

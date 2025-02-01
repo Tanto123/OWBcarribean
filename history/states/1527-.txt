@@ -1,0 +1,21 @@
+state = {
+	id = 1527
+	name = "STATE_1527"
+	provinces={
+		10456 10472
+	}
+	history = {
+		owner = EPL 
+		add_core_of = EPL 
+		victory_points = {
+			10456 8
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

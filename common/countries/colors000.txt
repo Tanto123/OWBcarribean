@@ -1,0 +1,160 @@
+
+USM = {
+	color = rgb { 0 153 0 }
+	color_ui = rgb { 0 153 0 }
+}
+
+BDA = {
+	color = rgb { 153 204 255 }
+	color_ui = rgb { 153 204 255 }
+}
+
+YUA = {
+	color = rgb { 204 153 0 }
+	color_ui = rgb { 204 153 0 }
+}
+
+SDG = {
+	color = rgb { 153 204 0 }
+	color_ui = rgb { 153 204 0 }
+}
+
+HIG = {
+	color = rgb { 255 80 80 }
+	color_ui = rgb { 255 80 80 }
+}
+
+HIC = {
+	color = rgb { 255 204 0 }
+	color_ui = rgb { 255 204 0 }
+}
+
+OUA = {
+	color = rgb { 204 153 0 }
+	color_ui = rgb { 204 153 0 }
+}
+
+EPL = {
+	color = rgb { 235  216  92 }
+	color_ui = rgb { 235  216  92 }
+}
+
+TOR = {
+	color = rgb { 204 102 153 }
+	color_ui = rgb { 204 102 153 }
+}
+
+WSN = {
+	color = rgb { 255 153 51 }
+	color_ui = rgb { 255 153 51 }
+}
+
+SAO = {
+	color = rgb { 102 255 102 }
+	color_ui = rgb { 102 255 102 }
+}
+
+OOP = {
+	color = rgb { 0 0 255 }
+	color_ui = rgb { 0 0 255 }
+}
+
+WCE = {
+	color = rgb { 153 0 255 }
+	color_ui = rgb { 153 0 255 }
+}
+
+PCO = {
+	color = rgb { 153 0 255 }
+	color_ui = rgb { 153 0 255 }
+}
+
+WIC = {
+	color = rgb { 153 0 255 }
+	color_ui = rgb { 153 0 255 }
+}
+
+MER = {
+	color = rgb { 153 0 255 }
+	color_ui = rgb { 153 0 255 }
+}
+
+GIT = {
+	color = rgb { 233 0 0 }
+	color_ui = rgb { 233 0 0 }
+}
+
+LCB = {
+	color = rgb { 81 21 27 }
+	color_ui = rgb { 81 21 27 }
+}
+
+DVB = {
+	color = rgb { 50 155 170 }
+	color_ui = rgb { 50 155 170 }
+}
+
+PDR = {
+	color = rgb { 26 150 20 }
+	color_ui = rgb { 26 150 20 }
+}
+
+FRL = {
+	color = rgb { 0 82 151 }
+	color_ui = rgb { 0 82 151 }
+}
+
+BLV = {
+	color = rgb { 136 48 0 }
+	color_ui = rgb { 136 48 0 }
+}
+
+GMO = {
+	color = rgb { 222 49 99 }
+	color_ui = rgb { 222 49 99 }
+}
+
+VNE = {
+	color = rgb { 47 47 47 }
+	color_ui = rgb { 47 47 47 }
+}
+
+VGA = {
+	color = rgb { 31 51 156 }
+	color_ui = rgb { 31 51 156 }
+}
+
+SAA = {
+	color = rgb { 126 204 0 }
+	color_ui = rgb { 126 204 0 }
+}
+
+CCA = {
+	color = rgb { 232 173 154 }
+	color_ui = rgb { 232 173 154 }
+}
+
+SCC = {
+	color = rgb { 0 153 153 }
+	color_ui = rgb { 0 153 153 }
+}
+
+PYS = {
+	color = rgb { 224 204 122 }
+	color_ui = rgb { 224 204 122 }
+}
+
+VDM = {
+	color = rgb { 64 107 76 }
+	color_ui = rgb { 64 107 76 }
+}
+
+SHB = {
+	color = rgb { 198 85 93 }
+	color_ui = rgb { 198 85 93 }
+}
+
+PRJ = {
+	color = rgb { 102 74 52 }
+	color_ui = rgb { 102 74 52 }
+}

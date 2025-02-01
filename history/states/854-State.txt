@@ -1,0 +1,20 @@
+state = {
+	id = 854
+	name = "STATE_854"
+	provinces = {
+		10309 10336 10339 10740 10741 10743 10744
+	}
+	history = {
+		owner = BDA 
+		add_core_of = BDA 
+		victory_points = {
+			10309 3
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=843
+	name="STATE_843"
+	provinces={
+		728 10618 10626 10633 10640 10642 10651 10661 
+	}
+	history = {
+		owner = SCC 
+		add_core_of = SCC 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

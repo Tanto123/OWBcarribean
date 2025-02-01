@@ -1,0 +1,21 @@
+state = {
+	id = 1526
+	name = "STATE_1526"
+	provinces={
+		10517
+	}
+	history = {
+		owner = TOR 
+		add_core_of = TOR 
+		victory_points = {
+			10517 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

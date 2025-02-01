@@ -1,0 +1,21 @@
+state = {
+	id = 1524
+	name = "STATE_1524"
+	provinces={
+		10409
+	}
+	history = {
+		owner = SAO 
+		add_core_of = SAO 
+		victory_points = {
+			10409 4
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

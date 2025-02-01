@@ -1,0 +1,18 @@
+state={
+	id=1529
+	name="STATE_1529"
+	provinces={
+		8684 10544 10545 10546 10547 10553 10556 10558 10559 10560 
+	}
+	history = {
+		owner = PDR 
+		add_core_of = PDR 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

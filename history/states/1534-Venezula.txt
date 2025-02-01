@@ -1,0 +1,18 @@
+state={
+	id=1534
+	name="STATE_1534"
+	provinces={
+		10592 10598 
+	}
+	history = {
+		owner = VNE 
+		add_core_of = VNE 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

@@ -1,0 +1,18 @@
+state={
+	id=1531
+	name="STATE_1531"
+	provinces={
+		719 10563 10575 
+	}
+	history = {
+		owner = FRL 
+		add_core_of = FRL 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

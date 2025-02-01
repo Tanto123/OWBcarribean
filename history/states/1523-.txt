@@ -1,0 +1,19 @@
+state = {
+	id = 1523
+	name = "STATE_1523"
+	provinces={
+		10302 10316 10348 10335 
+	}
+	history = {
+		owner = HIC 
+		add_core_of = HIC 
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

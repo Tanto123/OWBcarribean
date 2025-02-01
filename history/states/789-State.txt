@@ -1,0 +1,19 @@
+
+state={
+	id=789
+	name="STATE_789"
+	provinces={
+		10520 10521 10522 10525 10527 10528 10529 10530 10531 10533 10535 10538 10539 10541 10543 10549 
+	}
+	history = {
+		owner = LCB 
+		add_core_of = LCB 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

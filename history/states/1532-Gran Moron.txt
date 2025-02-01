@@ -1,0 +1,18 @@
+state={
+	id=1532
+	name="STATE_1532"
+	provinces={
+		10590 10609 10611 
+	}
+	history = {
+		owner = GMO 
+		add_core_of = GMO 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

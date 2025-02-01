@@ -1,0 +1,19 @@
+
+state={
+	id=844
+	name="STATE_844"
+	provinces={
+		729 10622 10623 10624 10636 10637 10641 10643 10647 10650 10652 10654 10655 10656 
+	}
+	history = {
+		owner = SHB 
+		add_core_of = SHB 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

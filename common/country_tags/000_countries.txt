@@ -1,0 +1,63 @@
+USH = "countries/United States Military District of Hispaniola.txt"
+
+YUA = "countries/Yuna Marauders.txt"
+
+SDG = "countries/Santa Domingo.txt"
+
+HIG = "countries/Higuey.txt"
+
+BDA = "countries/Baronia de Alto Mao.txt"
+
+HIC = "countries/Wayom Hinche.txt"
+
+OUA = "countries/Wayom Ouanaminthe.txt"
+
+EPL = "countries/Etat Pontifical.txt"
+
+TOR = "countries/Tortuga.txt"
+
+WSN = "countries/Wayom Saint Nicolas.txt"
+
+SAO = "countries/Salton.txt"
+
+OOP = "countries/Wayom Inonde.txt"
+
+WCE = "countries/Wayom Cayes.txt"
+
+PCO = "countries/Puerto Rico.txt"
+
+WIC = "countries/West Indies Commonwealth.txt"
+
+MER = "countries/The Merciless.txt"
+
+GIT = "countries/Gitmo.txt"
+
+LCB = "countries/Cuban Liberation Army.txt"
+
+DVB = "countries/Davis Brigade.txt"
+
+PDR = "countries/Padre Republic.txt"
+
+FRL = "countries/Florida.txt"
+
+BLV = "countries/Bolivia.txt"
+
+GMO = "countries/Gran Morón.txt"
+
+VNE = "countries/Venezuela.txt"
+
+VGA = "countries/Venegas.txt"
+
+SAA = "countries/Sanctica.txt"
+
+CCA = "countries/Cayo.txt"
+
+SCC = "countries/Santa Clara Confederation.txt"
+
+PYS = "countries/Playas.txt"
+
+VDM = "countries/Varadero Mutants.txt"
+
+SHB = "countries/República Socialista de Habana.txt"
+
+PRJ = "countries/Pirate Republic of Juventud.txt"

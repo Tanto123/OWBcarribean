@@ -1,0 +1,4 @@
+graphical_culture = enclave_gfx
+graphical_culture_2d = settler_2d
+
+color = { 64 107 76 }

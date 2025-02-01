@@ -1,0 +1,17 @@
+state = {
+	id = 762
+	name = "STATE_762"
+	provinces={
+		713 10508 10509 10512 10515 10516 10518 10523 10524 10526 10532 10536 10537 10540
+	}
+	history = {
+		owner = DVB 
+		add_core_of = DVB 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,11 @@
+spriteTypes = {
+
+	SpriteType = {
+		name = "GFX_portrait_USH_Hacklifflarge"
+		texturefile = "gfx/leaders/USH/Hackliff.dds"
+	}
+
+
+}
+
+

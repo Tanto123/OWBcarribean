@@ -1,0 +1,19 @@
+
+state={
+	id=1535
+	name="STATE_1535"
+	provinces={
+		10620 10628 10630 10638 10644 10645 10759 10761 
+	}
+	history = {
+		owner = CCA 
+		add_core_of = CCA 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = wasteland
+}

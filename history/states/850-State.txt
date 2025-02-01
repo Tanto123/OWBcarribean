@@ -1,0 +1,20 @@
+state = {
+	id = 850
+	name = "STATE_850"
+	provinces={
+		10097 10109 10148 10158 10208 10218 10229 10236 10251 10271 10301
+	}
+	history = {
+		owner = OOP 
+		add_core_of = OOP 
+		victory_points = {
+			10301 8
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
