@@ -1,0 +1,3 @@
+graphical_culture = civcan_3_gfx
+graphical_culture_2d = raider_2d
+color = { 137 62 50 }

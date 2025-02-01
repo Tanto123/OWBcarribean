@@ -1,4 +1,0 @@
-graphical_culture = infantry_entity
-graphical_culture_2d = southamerican_2d
-
-color = { 233 0 0 }

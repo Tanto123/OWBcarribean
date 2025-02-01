@@ -1,5 +1,4 @@
 ﻿graphical_culture = infantry_entity
 graphical_culture_2d = southamerican_2d
 
-color = { 4 246 90 }
-
+color = { 115 165 37 }
