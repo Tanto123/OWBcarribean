@@ -1,5 +1,7 @@
 ﻿capital = 1527
 
+recruit_character = EPL_Raphael
+
 set_technology = {
 	infantry_tech_level_tribal = 1
 	infantry_tech_level_settler = 1
@@ -90,7 +92,3 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 100
 }
-
-recruit_character = EPL_Pap
-
-recruit_character = EPL_Pap
