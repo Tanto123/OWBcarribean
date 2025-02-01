@@ -1,23 +1,23 @@
 characters={
-	EPL_Raphael={
-		name="Pap Raphael XXIII"
+	HIC_Occean={
+		name="Wa Jonathan II Occean"
 		portraits={
 			civilian={
-				large="gfx/leaders/EPL/raphael.dds"
+				large="gfx/leaders/USH/Hackliff.dds"
 			}
 		}
 		field_marshal={
 			traits={ }
 			skill=2
-			attack_skill=3
+			attack_skill=2
 			defense_skill=2
 			planning_skill=2
 			logistics_skill=3
 			legacy_id=-1
 		}
 		country_leader={
-			desc="POLITICS_Raphael_DESC"
-			ideology=theocracy
+			desc="POLITICS_Occean_DESC"
+			ideology=feudalism
 			expire="3000.1.1.1"
 			id=-1
 		}

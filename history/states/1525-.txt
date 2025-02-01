@@ -5,8 +5,8 @@ state = {
 		10483 10466
 	}
 	history = {
-		owner = WSN 
-		add_core_of = WSN 
+		owner = EPL 
+		add_core_of = EPL 
 		victory_points = {
 			10483 4
 		}
