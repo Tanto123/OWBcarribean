@@ -1,5 +1,7 @@
 ﻿capital = 789
 
+recruit_character = SCC_Murillo
+
 set_technology = {
 	infantry_tech_level_tribal = 1
 	infantry_tech_level_settler = 1

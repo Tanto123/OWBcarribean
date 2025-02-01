@@ -1,0 +1,25 @@
+characters={
+	FRL_Juan={
+		name="Presidente Juan José Abellán"
+		portraits={
+			civilian={
+				large="gfx/leaders/USH/Hackliff.dds"
+			}
+		}
+		field_marshal={
+			traits={ }
+			skill=1
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=-1
+		}
+		country_leader={
+			desc="POLITICS_Juan_DESC"
+			ideology=constitutional_republic
+			expire="3000.1.1.1"
+			id=-1
+		}
+	}
+}

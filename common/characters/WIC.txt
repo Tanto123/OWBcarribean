@@ -1,0 +1,16 @@
+characters={
+	WIC_council={
+		name="The Council"
+		portraits={
+			civilian={
+				large="gfx/leaders/USH/Hackliff.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_Council_DESC"
+			ideology=oligarchy
+			expire="3000.1.1.1"
+			id=-1
+		}
+	}
+}

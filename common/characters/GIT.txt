@@ -1,0 +1,25 @@
+characters={
+	GIT_Foster={
+		name="Thomas Foster"
+		portraits={
+			civilian={
+				large="gfx/leaders/USH/Hackliff.dds"
+			}
+		}
+		field_marshal={
+			traits={ }
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=-1
+		}
+		country_leader={
+			desc="POLITICS_Foster_DESC"
+			ideology=peoples_militia
+			expire="3000.1.1.1"
+			id=-1
+		}
+	}
+}

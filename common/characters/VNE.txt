@@ -1,0 +1,25 @@
+characters={
+	VNE_Grau={
+		name="Gran Libertador Emilia Grau"
+		portraits={
+			civilian={
+				large="gfx/leaders/USH/Hackliff.dds"
+			}
+		}
+		field_marshal={
+			traits={ }
+			skill=1
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=-1
+		}
+		country_leader={
+			desc="POLITICS_Grau_DESC"
+			ideology=military_government
+			expire="3000.1.1.1"
+			id=-1
+		}
+	}
+}
