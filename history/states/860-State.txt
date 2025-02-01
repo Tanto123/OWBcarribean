@@ -7,7 +7,9 @@ state = {
 	history = {
 		owner = BDA 
 		add_core_of = BDA 
-
+		victory_points = {
+			10418 4
+		}
 		buildings = {
 			infrastructure = 2
 		}

@@ -5,6 +5,9 @@ state={
 		10592 10598 
 	}
 	history = {
+		victory_points = {
+			10592 4
+		}
 		owner = VNE 
 		add_core_of = VNE 
 		buildings = {

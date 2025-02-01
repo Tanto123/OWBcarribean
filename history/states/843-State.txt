@@ -6,6 +6,9 @@ state={
 		728 10618 10626 10633 10640 10642 10651 10661 
 	}
 	history = {
+		victory_points = {
+			728 6
+		}
 		owner = SCC 
 		add_core_of = SCC 
 		buildings = {

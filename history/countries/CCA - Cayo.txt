@@ -1,4 +1,4 @@
-﻿capital = 789
+﻿capital = 1530
 
 recruit_character = CCA_Collazo
 

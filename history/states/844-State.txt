@@ -6,6 +6,9 @@ state={
 		729 10622 10623 10624 10636 10637 10641 10643 10647 10650 10652 10654 10655 10656 
 	}
 	history = {
+		victory_points = {
+			10655 10
+		}
 		owner = SHB 
 		add_core_of = SHB 
 		buildings = {

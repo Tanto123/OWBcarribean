@@ -7,6 +7,9 @@ state = {
 	history = {
 		owner = DVB 
 		add_core_of = DVB 
+		victory_points = {
+			10536 5
+		}
 		buildings = {
 			infrastructure = 2
 		}

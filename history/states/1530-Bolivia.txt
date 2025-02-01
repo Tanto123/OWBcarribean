@@ -5,6 +5,9 @@ state={
 		10587 10603 
 	}
 	history = {
+		victory_points = {
+			10587 5
+		}
 		owner = CCA 
 		add_core_of = CCA 
 		buildings = {

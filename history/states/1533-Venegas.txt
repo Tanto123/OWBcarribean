@@ -5,6 +5,9 @@ state={
 		10610 10614 10619 
 	}
 	history = {
+		victory_points = {
+			10619 6
+		}
 		owner = VGA 
 		add_core_of = VGA 
 		buildings = {

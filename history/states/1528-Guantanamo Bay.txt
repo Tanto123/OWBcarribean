@@ -7,6 +7,9 @@ state={
 	history = {
 		owner = GIT 
 		add_core_of = GIT 
+		victory_points = {
+			10511 5
+		}
 		buildings = {
 			infrastructure = 2
 		}

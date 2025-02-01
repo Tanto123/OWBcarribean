@@ -7,6 +7,9 @@ state = {
 	history = {
 		owner = WIC 
 		add_core_of = WIC 
+		victory_points = {
+			10017 4
+		}
 		buildings = {
 			infrastructure = 2
 		}

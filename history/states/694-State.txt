@@ -5,6 +5,9 @@ state = {
 		723 10581 10585 10586 10588 10589 10591 10594 10596 10599 10600
 	}
 	history = {
+		victory_points = {
+			10599 5
+		}
 		owner = PRJ 
 		add_core_of = PRJ 
 		buildings = {

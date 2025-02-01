@@ -1,5 +1,7 @@
 ﻿capital = 849
 
+WCE = { puppet = TOR }
+
 recruit_character = WCE_Belizaire
 
 set_technology = {

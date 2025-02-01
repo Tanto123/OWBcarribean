@@ -6,6 +6,9 @@ state={
 		10608 10615 10616 10621 10631 
 	}
 	history = {
+		victory_points = {
+			10615 5
+		}
 		owner = PYS 
 		add_core_of = PYS 
 		buildings = {

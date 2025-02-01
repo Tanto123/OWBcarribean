@@ -1,4 +1,4 @@
-﻿capital = 789
+﻿capital = 1534
 
 recruit_character = VNE_Grau
 

@@ -5,6 +5,9 @@ state={
 		719 10563 10575 
 	}
 	history = {
+		victory_points = {
+			10575 5
+		}
 		owner = FRL 
 		add_core_of = FRL 
 		buildings = {
