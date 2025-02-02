@@ -2,7 +2,7 @@ state = {
 	id = 860
 	name = "STATE_860"
 	provinces = {
-		10246 10285 10286 10317 10321 10349 10397 10418 10450 10754
+		  10286 10317 10418 10450
 	}
 	history = {
 		owner = BDA 
@@ -11,7 +11,7 @@ state = {
 			10418 4
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
 	}
 	manpower = 8700

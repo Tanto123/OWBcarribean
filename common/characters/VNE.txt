@@ -3,7 +3,7 @@ characters={
 		name="Gran Libertador Emilia Grau"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/VNE/VNE_placeholder.dds"
 			}
 		}
 		field_marshal={

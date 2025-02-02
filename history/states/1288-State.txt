@@ -1,0 +1,21 @@
+
+state={
+	id=1288
+	name="STATE_1288"
+
+	history = {
+		owner = WCE 
+		add_core_of = WCE 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		10216 10217 10260 10259
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -3,7 +3,7 @@ characters={
 		name="Eliseo Collazo"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/CCA/CCA_placeholder.dds"
 			}
 		}
 		field_marshal={

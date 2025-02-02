@@ -1,21 +1,20 @@
 
 state={
-	id=842
-	name="STATE_842"
-	provinces={
-		10608 10615 10616 
-	}
-	history = {
-		victory_points = {
-			10615 5
-		}
+	id=1289
+	name="STATE_1289"
+
+	history={
 		owner = PYS 
 		add_core_of = PYS 
 		buildings = {
 			infrastructure = 2
 		}
 	}
-	manpower=7652
+
+	provinces={
+		10621 10631
+	}
+	manpower=100
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

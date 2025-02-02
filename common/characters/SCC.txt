@@ -1,9 +1,9 @@
 characters={
 	SCC_Murillo={
-		name="Gobernador Jerónimo Murillo"
+		name="Confederador Daniela Barrueco"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/SCC/SCC_placeholder.dds"
 			}
 		}
 		field_marshal={

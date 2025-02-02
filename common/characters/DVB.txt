@@ -3,7 +3,7 @@ characters={
 		name="Senior Colonel Vincent Davis"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/DVB/DVB_placeholder.dds"
 			}
 		}
 		field_marshal={

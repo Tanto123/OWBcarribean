@@ -3,7 +3,7 @@ characters={
 		name="People’s General Fabian Castro"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/LCB/LCB_placeholder.dds"
 			}
 		}
 		field_marshal={

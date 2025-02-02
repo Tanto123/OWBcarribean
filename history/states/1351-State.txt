@@ -1,22 +1,24 @@
 
 state={
-	id=842
-	name="STATE_842"
-	provinces={
-		10608 10615 10616 
-	}
+	id=1351
+	name="STATE_1351"
+
 	history = {
 		victory_points = {
-			10615 5
+			10655 10
 		}
-		owner = PYS 
-		add_core_of = PYS 
+		owner = SHB 
+		add_core_of = SHB 
 		buildings = {
 			infrastructure = 2
 		}
 	}
-	manpower=7652
+
+	provinces={
+		10655
+	}
+	manpower=100
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

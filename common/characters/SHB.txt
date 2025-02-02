@@ -3,7 +3,7 @@ characters={
 		name="Chairman Ignacio Navarro"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/SHB/SHB_placeholder.dds"
 			}
 		}
 		field_marshal={

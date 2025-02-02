@@ -3,7 +3,7 @@ characters={
 		name="Presidente Juan José Abellán"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/FRL/FRL_placeholder.dds"
 			}
 		}
 		field_marshal={

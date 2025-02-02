@@ -1,0 +1,21 @@
+
+state={
+	id=1190
+	name="STATE_1190"
+
+	history = {
+		owner = LCB 
+		add_core_of = LCB 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		10521 10520 10528 10535 10538 10531 10543
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,784 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+
+6401;6521;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6401;6518;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6404;6520;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6405;6349;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6405;6520;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6405;1608;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6408;6349;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6407;6348;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6407;6350;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+6407;6350;impassable;-1;-1;-1;-1;-1;;Clitton to High Chapel
+
+6522;1008;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6522;8548;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6522;3247;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6522;3248;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+1011;6366;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+1021;6324;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+1021;6363;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+1021;6366;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6346;6324;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6345;6324;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6345;6357;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6345;9087;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6345;6335;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6352;6335;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6352;6355;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6353;6355;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6354;6355;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+6354;6430;impassable;-1;-1;-1;-1;-1;;Sorrows Defensive Walls
+
+6324;6362;impassable;-1;-1;-1;-1;-1;;Tar Walkers Walls
+6324;6363;impassable;-1;-1;-1;-1;-1;;Tar Walkers Walls
+6324;6364;impassable;-1;-1;-1;-1;-1;;Tar Walkers Walls
+
+6314;2681;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+6314;3484;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+6315;3484;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+6315;2680;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+6315;3371;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+4426;3371;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+4426;2682;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+6318;3370;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+8908;3370;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+8908;3564;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+8907;3564;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+8906;3339;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+8906;3340;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+3524;3340;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+3524;8897;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+3523;3340;impassable;-1;-1;-1;-1;-1;;Ruby Valley to 80s
+
+3521;3353;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+3525;3353;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+3525;8462;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+3327;8462;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+3327;8463;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+4424;8463;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+4424;1642;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+6311;1642;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+6311;3498;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+6313;3502;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Riperult
+
+6313;3529;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Pale Folk
+6314;3529;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Pale Folk
+6313;3529;impassable;-1;-1;-1;-1;-1;;Ruby Valley to Pale Folk
+
+972;3210;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+972;3207;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+972;3204;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6996;3204;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6996;3206;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6996;5760;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6996;3226;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+3202;3226;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6990;3226;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+6990;3228;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+3235;9067;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+3235;9068;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+3235;9072;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+3235;5766;impassable;-1;-1;-1;-1;-1;;Inner Mojave Ring
+
+7305;12532;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+7305;12546;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+7305;3821;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+7309;3821;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+7309;3822;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+3977;12546;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+3977;12552;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+3977;12561;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+3977;12565;impassable;-1;-1;-1;-1;-1;;Northwest Plaguelands Wall
+3952;3822;impassable;-1;-1;-1;-1;-1;;Southwest Plaguelands Wall
+3952;3805;impassable;-1;-1;-1;-1;-1;;Southwest Plaguelands Wall
+7306;3805;impassable;-1;-1;-1;-1;-1;;Southwest Plaguelands Wall
+7306;3807;impassable;-1;-1;-1;-1;-1;;Southwest Plaguelands Wall
+2096;3989;impassable;-1;-1;-1;-1;-1;;Central Plaguelands Wall
+2096;3950;impassable;-1;-1;-1;-1;-1;;Central Plaguelands Wall
+2096;7244;impassable;-1;-1;-1;-1;-1;;Central Plaguelands Wall
+7400;3720;impassable;-1;-1;-1;-1;-1;;Southern Plaguelands Wall
+7400;3719;impassable;-1;-1;-1;-1;-1;;Southern Plaguelands Wall
+7399;3719;impassable;-1;-1;-1;-1;-1;;Southern Plaguelands Wall
+7401;10435;impassable;-1;-1;-1;-1;-1;;Southern Plaguelands Wall
+
+4447;9258;sea;9252;-1;-1;-1;-1;;New Victoria Islands
+9260;9258;sea;9252;-1;-1;-1;-1;;New Victoria Islands
+9257;9258;sea;9252;-1;-1;-1;-1;;New Victoria Islands
+9257;9260;sea;9252;-1;-1;-1;-1;;New Victoria Islands
+
+4440;13618;sea;125;-1;-1;-1;-1;;Victoria Island to Mainland
+13618;3627;sea;125;-1;-1;-1;-1;;Victoria Island to Mainland
+
+8485;7423;sea;77;-1;-1;-1;-1;;BRK Islands
+3696;7423;sea;77;-1;-1;-1;-1;;BRK Islands
+10470;7423;sea;77;-1;-1;-1;-1;;BRK Islands
+10470;3705;sea;77;-1;-1;-1;-1;;BRK Islands
+3711;3717;sea;77;-1;-1;-1;-1;;BRK Islands
+436;3713;sea;77;-1;-1;-1;-1;;BRK Islands
+
+5116;5123;sea;607;-1;-1;-1;-1;;Haida
+5126;5130;sea;607;-1;-1;-1;-1;;Haida
+
+3211;3214;sea;3063;-1;-1;-1;-1;;Lower Colorado River Crossing
+2316;946;sea;3062;-1;-1;-1;-1;;Lower Colorado River Crossing
+931;5648;sea;3062;-1;-1;-1;-1;;Lower Colorado River Crossing
+5642;1679;sea;3060;-1;-1;-1;-1;;Lower Colorado River Crossing
+3271;5642;sea;3060;-1;-1;-1;-1;;Lower Colorado River Crossing
+5641;3271;sea;3060;-1;-1;-1;-1;;Lower Colorado River Crossing
+3271;5805;sea;3060;-1;-1;-1;-1;;Lower Colorado River Crossing
+5805;3272;sea;3060;-1;-1;-1;-1;;Lower Colorado River Crossing
+3272;5787;sea;3059;-1;-1;-1;-1;;Lower Colorado River Crossing
+
+8932;7962;sea;3065;-1;-1;-1;-1;;Phoenix Bridge
+1940;7084;sea;1880;-1;-1;-1;-1;;Port Maw to Port Maw
+7097;7093;sea;9224;-1;-1;-1;-1;;Port Maw to Port Maw
+
+7084;7086;sea;1880;-1;-1;-1;-1;;Columbia River
+7086;4023;sea;1880;-1;-1;-1;-1;;Columbia River
+4024;7093;sea;9224;-1;-1;-1;-1;;Columbia River Opening
+4337;3868;sea;1882;-1;-1;-1;-1;;West Portland to East Portland
+4101;1981;sea;1884;-1;-1;-1;-1;;Salem Crossing
+1981;4102;sea;1884;-1;-1;-1;-1;;North Albany Crossing
+4102;3877;sea;1884;-1;-1;-1;-1;;South Albany Crossing
+1041;2422;sea;9213;-1;-1;-1;-1;;San Fran Bay Front
+9209;9217;sea;3052;-1;-1;-1;-1;;San Fran Bay Back
+9216;4614;sea;3055;-1;-1;-1;-1;;Broud Slough
+9226;9227;sea;9229;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+9234;9239;sea;9238;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+9246;9243;sea;9241;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+9233;9231;sea;9229;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+9236;9231;sea;9229;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+7392;9248;sea;9247;-1;-1;-1;-1;;Washington Brotherhood to Washington Brotherhood
+7393;9256;sea;9251;-1;-1;-1;-1;;Washington Brotherhood to Bellingham
+7383;3926;sea;5814;-1;-1;-1;-1;;Issaquah Nation to Old Country
+3932;7385;sea;5815;-1;-1;-1;-1;;Old Country to Bellingham
+8577;7385;sea;5815;-1;-1;-1;-1;;Old Country to Bellingham
+3944;12404;sea;5817;-1;-1;-1;-1;;Sylix to Passkeepers
+7208;3643;sea;5861;-1;-1;-1;-1;;Bellingham to Broken Coast
+3643;3674;sea;5861;-1;-1;-1;-1;;Bellingham to Broken Coast
+3674;7207;sea;5861;-1;-1;-1;-1;;Bellingham to Broken Coast
+2151;3823;sea;5865;-1;-1;-1;-1;;Dredgers to Dredgers
+7437;4277;sea;8377;-1;-1;-1;-1;;Ires to Murtaugh
+8509;3945;sea;5819;-1;-1;-1;-1;;Passkeeper Lake Pass
+1506;5746;sea;1886;-1;-1;-1;-1;;Old Country to Yakama Nation
+4060;5739;sea;1888;-1;-1;-1;-1;;Old Country to Yakama Nation
+1487;5744;sea;1887;-1;-1;-1;-1;;Old Country to Yakama Nation
+2641;5749;sea;1886;-1;-1;-1;-1;;Old Country to Yakama Nation
+2641;4042;sea;1886;-1;-1;-1;-1;;Old Country to Yakama Nation
+7166;5739;sea;1888;-1;-1;-1;-1;;Timberline to Heaven's Gate
+7166;5738;sea;1888;-1;-1;-1;-1;;Timberline to Heaven's Gate
+4077;4361;sea;1889;-1;-1;-1;-1;;Timberline to Heaven's Gate
+4077;1455;sea;1889;-1;-1;-1;-1;;Timberline to Heaven's Gate
+1430;7490;sea;1893;-1;-1;-1;-1;;Bone Dancers to Heaven's Gate
+1430;4076;sea;1893;-1;-1;-1;-1;;Bone Dancers to Heaven's Gate
+1430;4360;sea;1893;-1;-1;-1;-1;;Bone Dancers to Heaven's Gate
+4360;1424;sea;1893;-1;-1;-1;-1;;Bone Dancers to Heaven's Gate
+1379;4467;sea;1891;-1;-1;-1;-1;;High Chapel to Shoshone Nation
+4466;1379;sea;1891;-1;-1;-1;-1;;High Chapel to Shoshone Nation
+4205;4466;sea;1891;-1;-1;-1;-1;;High Chapel to Shoshone Nation
+4486;4472;sea;1892;-1;-1;-1;-1;;High Chapel to Murtaugh
+4214;4472;sea;1892;-1;-1;-1;-1;;High Chapel to Murtaugh
+4214;4477;sea;1892;-1;-1;-1;-1;;High Chapel to Murtaugh
+78;6294;sea;6293;-1;-1;-1;-1;;New Canaan to New Canaan
+7484;7475;sea;3073;-1;-1;-1;-1;;Dead Horses to Dead Horses
+3095;7484;sea;3073;-1;-1;-1;-1;;Dead Horses to Dead Horses
+7478;3095;sea;3073;-1;-1;-1;-1;;Dead Horses to Dead Horses
+7479;6544;sea;3071;-1;-1;-1;-1;;Dead Horses to Caesar's Legion
+6544;7483;sea;3071;-1;-1;-1;-1;;Dead Horses to Caesar's Legion
+7483;6543;sea;3071;-1;-1;-1;-1;;Dead Horses to Caesar's Legion
+3095;8131;sea;3081;-1;-1;-1;-1;;Dead Horses to Caesar's Legion
+1587;3099;sea;3083;-1;-1;-1;-1;;Ouroboros to Foragers
+7466;6691;sea;3082;-1;-1;-1;-1;;Ouroboros to Foragers
+7477;3094;sea;3074;-1;-1;-1;-1;;Ouroboros to Eagle Rock
+7450;7459;sea;3076;-1;-1;-1;-1;;Old Bones to Eagle Rock
+7459;6514;sea;3076;-1;-1;-1;-1;;Old Bones to Eagle Rock
+3091;6514;sea;3076;-1;-1;-1;-1;;Old Bones to Eagle Rock
+2203;7455;sea;3076;-1;-1;-1;-1;;Dryblowers to Eagle Rock
+3089;6515;sea;3077;-1;-1;-1;-1;;Dryblowers to Eagle Rock
+12460;6515;sea;3077;-1;-1;-1;-1;;Dryblowers to Eagle Rock
+12460;9175;sea;3077;-1;-1;-1;-1;;Dryblowers to Eagle Rock
+
+9505;8598;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+9702;8836;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8818;9696;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8818;9698;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8818;9702;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8599;9707;sea;5836;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8599;9717;sea;5836;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+
+10243;10211;sea;10153;-1;-1;-1;-1;;Aztec Empire to Aztec Empire
+10188;10137;sea;10178;-1;-1;-1;-1;;Aztec Empire to Aztec Empire
+10295;10232;sea;10277;-1;-1;-1;-1;;Aztec Empire to Aztec Empire
+10295;10307;sea;10277;-1;-1;-1;-1;;Aztec Empire to Aztec Empire
+10295;10307;sea;10362;-1;-1;-1;-1;;Aztec Empire to Chichen Itza
+10295;10384;sea;10362;-1;-1;-1;-1;;Aztec Empire to Chichen Itza
+10295;10362;sea;10277;-1;-1;-1;-1;;Aztec Empire to Chichen Itza
+
+9768;9766;sea;10822;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9812;9820;sea;9767;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9812;9798;sea;9767;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9768;9798;sea;9767;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9766;9788;sea;10821;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9766;9800;sea;9765;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+
+10272;10283;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10272;10144;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10199;10144;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10181;10150;sea;10056;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10088;10150;sea;10056;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10166;10234;sea;10125;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10135;10234;sea;10125;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10135;10166;sea;10125;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10135;10089;sea;10125;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10135;10065;sea;10125;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10234;10235;sea;10227;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10320;10334;sea;10296;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10334;10346;sea;10300;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10046;10057;sea;9933;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+
+10595;8593;sea;10557;-1;-1;-1;-1;;Petro Chico to Petro Chico
+10595;718;sea;10557;-1;-1;-1;-1;;Petro Chico to Petro Chico
+
+10595;724;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+10595;9368;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+8593;9565;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+9344;9362;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+
+9200;10672;sea;10670;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+
+9357;721;sea;10578;-1;-1;-1;-1;;Viceroyalty to Viceroyalty
+
+2193;9479;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+
+9768;9766;sea;10822;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9812;9820;sea;9767;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9768;9798;sea;9767;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9766;9788;sea;10821;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9766;9800;sea;9765;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9812;9879;sea;9837;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9879;9907;sea;9890;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9921;9907;sea;9890;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+9815;9921;sea;9839;-1;-1;-1;-1;;Guerreros de Honduras to Guerreros de Honduras
+
+10792;10534;sea;10507;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10272;10283;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10199;10144;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10181;10150;sea;10056;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10088;10108;sea;10056;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10890;10234;sea;10212;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10234;10235;sea;10227;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10320;10334;sea;10296;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10334;10346;sea;10300;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10888;10272;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10139;10199;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10139;10203;sea;10189;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+10046;10057;sea;9933;-1;-1;-1;-1;;Chichen Itza to Chichen Itza
+
+9801;9838;sea;9824;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+9801;9872;sea;9824;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+9842;9872;sea;9824;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10166;10234;sea;10212;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10132;10134;sea;10112;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10429;10134;sea;10112;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10429;10076;sea;10112;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10129;10065;sea;10125;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+10879;10089;sea;10125;-1;-1;-1;-1;;Chichen Itza to Tzotzil
+
+9963;10001;sea;10000;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+9963;9953;sea;9909;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+9888;9953;sea;9909;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+9888;9909;sea;9909;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+9830;9854;sea;9853;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+9761;9816;sea;9793;-1;-1;-1;-1;;Costa Cafetera to Tzotzil
+
+9882;9908;sea;9896;-1;-1;-1;-1;;Costa Cafetera to Costa Cafetera
+9908;9868;sea;9886;-1;-1;-1;-1;;Costa Cafetera to Costa Cafetera
+
+9992;9986;sea;9924;-1;-1;-1;-1;;Costa Cafetera to Aztlan
+9927;9986;sea;9924;-1;-1;-1;-1;;Costa Cafetera to Aztlan
+9849;9881;sea;9860;-1;-1;-1;-1;;Costa Cafetera to Aztlan
+10836;9881;sea;9860;-1;-1;-1;-1;;Costa Cafetera to Aztlan
+
+10295;10232;sea;10277;-1;-1;-1;-1;;Aztlan to Aztlan
+10174;10220;sea;10155;-1;-1;-1;-1;;Aztlan to Aztlan
+10174;10086;sea;10155;-1;-1;-1;-1;;Aztlan to Aztlan
+10086;10179;sea;10155;-1;-1;-1;-1;;Aztlan to Aztlan
+10086;10168;sea;10155;-1;-1;-1;-1;;Aztlan to Aztlan
+10085;10168;sea;10155;-1;-1;-1;-1;;Aztlan to Aztlan
+10127;10219;sea;10178;-1;-1;-1;-1;;Aztlan to Aztlan
+10187;10219;sea;10178;-1;-1;-1;-1;;Aztlan to Aztlan
+10187;10274;sea;10267;-1;-1;-1;-1;;Aztlan to Aztlan
+10243;10211;sea;10153;-1;-1;-1;-1;;Aztlan to Aztlan
+10243;10149;sea;10153;-1;-1;-1;-1;;Aztlan to Aztlan
+10149;10164;sea;10153;-1;-1;-1;-1;;Aztlan to Aztlan
+
+9309;2241;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9309;10942;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9311;10942;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9311;9323;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+10941;9317;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9331;9317;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9326;9331;sea;5878;-1;-1;-1;-1;;Aztlan to Tlalocan
+9326;10956;sea;5877;-1;-1;-1;-1;;Aztlan to Tlalocan
+9336;10956;sea;5877;-1;-1;-1;-1;;Aztlan to Tlalocan
+
+9359;11001;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9359;9365;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9359;2236;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9354;2236;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9354;10997;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9354;9561;sea;5876;-1;-1;-1;-1;;Aztlan to Viceroyalty
+10972;9350;sea;5877;-1;-1;-1;-1;;Aztlan to Viceroyalty
+9335;9350;sea;5877;-1;-1;-1;-1;;Aztlan to Viceroyalty
+
+2242;708;sea;5879;-1;-1;-1;-1;;Aztlan to Petro Chico
+9264;708;sea;5880;-1;-1;-1;-1;;Aztlan to Petro Chico
+9303;708;sea;5880;-1;-1;-1;-1;;Aztlan to Petro Chico
+9303;9314;sea;5880;-1;-1;-1;-1;;Aztlan to Petro Chico
+9303;709;sea;5880;-1;-1;-1;-1;;Aztlan to Petro Chico
+10493;10927;sea;10428;-1;-1;-1;-1;;Aztlan to Petro Chico
+10493;10489;sea;10428;-1;-1;-1;-1;;Aztlan to Petro Chico
+10454;10489;sea;10428;-1;-1;-1;-1;;Aztlan to Petro Chico
+
+9304;279;sea;10503;-1;-1;-1;-1;;Petro Chico to Petro Chico
+9304;10946;sea;10503;-1;-1;-1;-1;;Petro Chico to Petro Chico
+10946;10938;sea;10503;-1;-1;-1;-1;;Petro Chico to Petro Chico
+10958;10573;sea;10557;-1;-1;-1;-1;;Petro Chico to Petro Chico
+9269;10573;sea;10557;-1;-1;-1;-1;;Petro Chico to Petro Chico
+718;10985;sea;10557;-1;-1;-1;-1;;Petro Chico to Petro Chico
+
+10998;9565;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+10595;11004;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+9344;724;sea;5881;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+9556;10993;sea;5882;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+10993;716;sea;5882;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+716;8594;sea;5882;-1;-1;-1;-1;;Petro Chico to Army of Mexico
+
+9200;10672;sea;10670;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+11098;10672;sea;10670;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+9200;9405;sea;10670;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+9526;9405;sea;10670;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+737;9579;sea;10676;-1;-1;-1;-1;;Army of Mexico to Army of Mexico
+
+9466;10710;sea;10708;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+9594;10709;sea;10708;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+10707;9594;sea;10708;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+10710;9594;sea;10708;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+9593;10707;sea;10699;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+9593;9448;sea;10699;-1;-1;-1;-1;;Army of Mexico to Republic of the Rio Grande
+
+9505;8598;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8818;9696;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8818;8598;sea;5835;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+8599;9718;sea;5836;-1;-1;-1;-1;;Republic of the Rio Grande to Republic of the Rio Grande
+
+9739;2575;sea;5854;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+2575;9735;sea;5854;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+9735;7615;sea;5854;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+3287;3022;sea;5837;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+3022;3133;sea;5837;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+3133;2962;sea;5837;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+7780;7607;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+7607;9510;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+9510;7606;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+7606;9186;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+9186;7596;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+7596;8816;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+8816;7597;sea;5839;-1;-1;-1;-1;;Republic of the Rio Grande to Pecos Colony
+
+8816;7676;sea;5840;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+8816;7734;sea;5840;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+8816;7735;sea;5840;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+3017;7735;sea;5840;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+3017;7644;sea;5840;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+8821;7733;sea;5841;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+6607;7733;sea;5841;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+8972;7642;sea;5841;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+6607;7642;sea;5841;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+8972;7732;sea;5841;-1;-1;-1;-1;;Republic of the Rio Grande to Las Granjas
+
+3151;5215;sea;5824;-1;-1;-1;-1;;Baudelio Ranchers to Two Sun
+5353;3151;sea;5824;-1;-1;-1;-1;;Baudelio Ranchers to Two Sun
+5214;5353;sea;5824;-1;-1;-1;-1;;Baudelio Ranchers to Two Sun
+
+2627;7556;sea;5823;-1;-1;-1;-1;;Baudelio Ranchers to Gente Del Sol
+7742;7556;sea;5823;-1;-1;-1;-1;;Baudelio Ranchers to Gente Del Sol
+7742;7775;sea;5823;-1;-1;-1;-1;;Baudelio Ranchers to Gente Del Sol
+7742;6973;sea;5823;-1;-1;-1;-1;;Baudelio Ranchers to Gente Del Sol
+
+7692;11299;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7692;9507;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7721;9507;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7727;9552;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7651;9552;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7651;11296;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7691;7650;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+7662;7650;sea;5825;-1;-1;-1;-1;;Baudelio Ranchers to Sinaloa
+
+4652;4671;sea;;-1;-1;-1;-1;;Baja Crossing
+4659;4661;sea;;-1;-1;-1;-1;;Baja Crossing
+
+8928;5792;sea;3057;-1;-1;-1;-1;;Gila Mouth Crossing
+5789;8928;sea;3057;-1;-1;-1;-1;;Gila Mouth Crossing
+5370;5789;sea;3057;-1;-1;-1;-1;;Gila Mouth Crossing
+5370;5808;sea;3057;-1;-1;-1;-1;;Gila Mouth Crossing
+5808;8929;sea;3057;-1;-1;-1;-1;;Gila Mouth Crossing
+
+10732;9490;sea;10731;-1;-1;-1;-1;;Sinaloa to Sinaloa
+9495;10732;sea;10731;-1;-1;-1;-1;;Sinaloa to Sinaloa
+9495;10734;sea;10731;-1;-1;-1;-1;;Sinaloa to Sinaloa
+11278;10734;sea;10731;-1;-1;-1;-1;;Sinaloa to Sinaloa
+11278;10733;sea;10731;-1;-1;-1;-1;;Sinaloa to Sinaloa
+
+7663;7650;sea;5825;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7791;7650;sea;5825;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7690;11293;sea;5825;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7745;11293;sea;5826;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7714;11293;sea;5826;-1;-1;-1;-1;;Sinaloa to Las Granjas
+11;7714;sea;5826;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7706;9489;sea;5827;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7643;9489;sea;5827;-1;-1;-1;-1;;Sinaloa to Las Granjas
+7643;9488;sea;5827;-1;-1;-1;-1;;Sinaloa to Las Granjas
+
+9393;7763;sea;5822;-1;-1;-1;-1;;Sinaloa to Gente Del Sol
+778;7763;sea;5822;-1;-1;-1;-1;;Sinaloa to Gente Del Sol
+11289;7526;sea;5822;-1;-1;-1;-1;;Sinaloa to Gente Del Sol
+9550;7526;sea;5822;-1;-1;-1;-1;;Sinaloa to Gente Del Sol
+
+7759;11275;sea;5821;-1;-1;-1;-1;;Gente Del Sol to Free Fighters
+7759;11274;sea;5821;-1;-1;-1;-1;;Gente Del Sol to Free Fighters
+7760;11274;sea;5821;-1;-1;-1;-1;;Gente Del Sol to Free Fighters
+7535;11274;sea;5821;-1;-1;-1;-1;;Gente Del Sol to Free Fighters
+7535;2194;sea;5821;-1;-1;-1;-1;;Gente Del Sol to Free Fighters
+
+2193;9479;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+11247;9479;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+11247;11249;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+11247;9472;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+10715;9472;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+766;9479;sea;10714;-1;-1;-1;-1;;Free Fighters to Free Fighters
+
+9481;10728;sea;10725;-1;-1;-1;-1;;Free Fighters to Free Sinaloa
+9481;10726;sea;10725;-1;-1;-1;-1;;Free Fighters to Free Sinaloa
+9474;10726;sea;10725;-1;-1;-1;-1;;Free Fighters to Free Sinaloa
+
+11015;9365;sea;5874;-1;-1;-1;-1;;Beltran-Levya to Viceroyalty
+11015;9376;sea;5874;-1;-1;-1;-1;;Beltran-Levya to Viceroyalty
+9381;9376;sea;5874;-1;-1;-1;-1;;Beltran-Levya to Viceroyalty
+2235;9384;sea;5874;-1;-1;-1;-1;;Beltran-Levya to Viceroyalty
+9357;721;sea;10578;-1;-1;-1;-1;;Viceroyalty to Viceroyalty
+9357;9356;sea;10578;-1;-1;-1;-1;;Viceroyalty to Viceroyalty
+9356;9350;sea;10578;-1;-1;-1;-1;;Viceroyalty to Viceroyalty
+10613;9366;sea;10617;-1;-1;-1;-1;;Viceroyalty to Viceroyalty
+
+12202;12254;sea;5955;-1;-1;-1;-1;;Cherokee Nation to Cherokee Nation
+12202;959;sea;5955;-1;-1;-1;-1;;Cherokee Nation to Cherokee Nation
+
+11607;11602;sea;5991;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11607;817;sea;5991;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11442;11751;sea;5989;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11442;11760;sea;5989;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11448;11760;sea;5989;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11448;11772;sea;5990;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11429;11435;sea;5984;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11429;8590;sea;5984;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11446;8590;sea;5984;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+776;9676;sea;98;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+2247;9663;sea;98;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+11336;9652;sea;109;-1;-1;-1;-1;;Texan Brotherhood to Texan Brotherhood
+
+9652;9649;sea;109;-1;-1;-1;-1;;Texan Brotherhood to The Persuant
+
+11312;9648;sea;109;-1;-1;-1;-1;;The Persuant to The Persuant
+760;9649;sea;109;-1;-1;-1;-1;;The Persuant to The Persuant
+
+11500;11491;sea;5985;-1;-1;-1;-1;;Unity of Austin
+11515;11491;sea;5985;-1;-1;-1;-1;;Unity of Austin
+11533;11548;sea;5986;-1;-1;-1;-1;;Unity of Austin
+
+12139;2754;sea;5949;-1;-1;-1;-1;;Chickasaw-Muscogee Coalition
+12135;12112;sea;5949;-1;-1;-1;-1;;Chickasaw-Muscogee Coalition
+
+899;881;sea;5977;-1;-1;-1;-1;; Scrappers to Last Lodge
+899;12046;sea;5977;-1;-1;-1;-1;; Scrappers to Last Lodge
+
+2756;5658;sea;5953;-1;-1;-1;-1;;Cypher Warband to Supermax
+11759;11756;sea;11758;-1;-1;-1;-1;;Cannery
+
+11634;11637;sea;5987;-1;-1;-1;-1;;Shale to Lone Star
+
+8601;11658;sea;5988;-1;-1;-1;-1;;Carbon to Lone Star
+
+11574;11593;sea;5986;-1;-1;-1;-1;;Texas River Crossings
+1843;11603;sea;5987;-1;-1;-1;-1;;Texas River Crossings
+11603;11627;sea;5987;-1;-1;-1;-1;;Texas River Crossings
+11840;8589;sea;5990;-1;-1;-1;-1;;Texas River Crossings
+11840;11519;sea;5990;-1;-1;-1;-1;;Texas River Crossings
+11962;11671;sea;5992;-1;-1;-1;-1;;Texas River Crossings
+11821;11804;sea;5980;-1;-1;-1;-1;;Texas River Crossings
+11799;11804;sea;5980;-1;-1;-1;-1;;Texas River Crossings
+803;11954;sea;5982;-1;-1;-1;-1;;Texas River Crossings
+803;11947;sea;5982;-1;-1;-1;-1;;Texas River Crossings
+11862;11873;sea;5981;-1;-1;-1;-1;;Texas River Crossings
+11948;842;sea;5983;-1;-1;-1;-1;;Texas River Crossings
+12023;12076;sea;5975;-1;-1;-1;-1;;Texas River Crossings
+12039;12084;sea;5975;-1;-1;-1;-1;;Texas River Crossings
+12039;12082;sea;5975;-1;-1;-1;-1;;Texas River Crossings
+12035;12080;sea;5976;-1;-1;-1;-1;;Texas River Crossings
+12078;12035;sea;5976;-1;-1;-1;-1;;Texas River Crossings
+12037;12078;sea;5976;-1;-1;-1;-1;;Texas River Crossings
+12046;12090;sea;5977;-1;-1;-1;-1;;Texas River Crossings
+12057;909;sea;5978;-1;-1;-1;-1;;Texas River Crossings
+12057;12098;sea;5977;-1;-1;-1;-1;;Texas River Crossings
+2808;2755;sea;5978;-1;-1;-1;-1;;Texas River Crossings
+7015;1838;sea;5953;-1;-1;-1;-1;;Texas River Crossings
+8732;2753;sea;5951;-1;-1;-1;-1;;Texas River Crossings
+8732;12215;sea;5951;-1;-1;-1;-1;;Texas River Crossings
+12164;12186;sea;5950;-1;-1;-1;-1;;Texas River Crossings
+2751;12168;sea;5950;-1;-1;-1;-1;;Texas River Crossings
+12168;12134;sea;5950;-1;-1;-1;-1;;Texas River Crossings
+12126;12148;sea;5948;-1;-1;-1;-1;;Texas River Crossings
+12140;12148;sea;5948;-1;-1;-1;-1;;Texas River Crossings
+937;12170;sea;5948;-1;-1;-1;-1;;Texas River Crossings
+12184;12248;sea;5955;-1;-1;-1;-1;;Texas River Crossings
+12248;937;sea;5947;-1;-1;-1;-1;;Texas River Crossings
+2342;12213;sea;5956;-1;-1;-1;-1;;Texas River Crossings
+2342;12271;sea;5959;-1;-1;-1;-1;;Texas River Crossings
+12271;12213;sea;5959;-1;-1;-1;-1;;Texas River Crossings
+2752;12256;sea;5956;-1;-1;-1;-1;;Texas River Crossings
+2752;12253;sea;5956;-1;-1;-1;-1;;Texas River Crossings
+12266;12229;sea;5957;-1;-1;-1;-1;;Texas River Crossings
+12266;12219;sea;5957;-1;-1;-1;-1;;Texas River Crossings
+12283;12229;sea;5957;-1;-1;-1;-1;;Texas River Crossings
+12289;12238;sea;5957;-1;-1;-1;-1;;Texas River Crossings
+2749;2977;sea;5860;-1;-1;-1;-1;;Texas River Crossings
+
+2186;7521;sea;1896;-1;-1;-1;-1;;Idaho Falls
+2186;1741;sea;1896;-1;-1;-1;-1;;Idaho Falls
+8211;1741;sea;1896;-1;-1;-1;-1;;Idaho Falls
+8208;1741;sea;1896;-1;-1;-1;-1;;Idaho Falls
+2975;5687;sea;5860;-1;-1;-1;-1;;Santa Fae River Crossing
+2017;8327;sea;1897;-1;-1;-1;-1;;Upper Snake River
+
+9924;10157;sea;10101;-1;-1;-1;-1;Veracruz Canal;Adjacency Rule Link for Veracruz Canal
+3063;5920;sea;6603;-1;-1;-1;-1;Hoover Dam Western Boatlift;Adjacency Rule Link for Hoover Dam Western Boatlift
+3063;5920;sea;6603;-1;-1;-1;-1;Hoover Dam Eastern Boatlift;Adjacency Rule Link for Hoover Dam Eastern Boatlift
+6066;6076;sea;1330;-1;-1;-1;-1;Oahe Dam Lock;Adjacency Rule Link for Oahe Dam Lock
+9219;3055;;-1;-1;-1;-1;-1;Carquinez Strait;Adjacency Rule Link for Carquinez Strait
+296;9213;;-1;-1;-1;-1;-1;San Fransico Bay;Adjacency Rule Link for San Fran Bay
+5898;5908;;-1;-1;-1;-1;-1;The Royal Manitoba Canal;Adjacency Rule Link for The Royal Manitoba Canal
+5916;5911;;-1;-1;-1;-1;-1;Red River Forks;Adjacency Rule Link for Red River Forks
+5902;5911;;-1;-1;-1;-1;-1;Assiniboine Forks;Adjacency Rule Link for Assiniboine Forks
+6276;5910;;-1;-1;-1;-1;-1;Easterville Crossing;Adjacency Rule Link for Easterville Crossing
+6279;5891;;-1;-1;-1;-1;-1;Lake Manitoba Access;Lake Manitoba to Lake Winipegopolis
+
+1387;12222;;-1;1387;1387;1387;1387;The Red Forest Spatial Anomaly;Adjaceny Rule for Bone Dancers-Chained Choir Spatial Anomaly
+3351;10404;;-1;3351;3351;3351;3351;Desert Spatial Anomaly;Adjaceny Rule for Vault City-Aztlan Spatial Anomaly
+
+14327;14313;sea;5887;-1;-1;-1;-1;;South Saskatchewan River Crossing
+14313;14326;sea;5887;-1;-1;-1;-1;;South Saskatchewan River Crossing
+14326;14312;sea;5887;-1;-1;-1;-1;;South Saskatchewan River Crossing
+2116;4435;sea;125;-1;-1;-1;-1;;Texada Island Link
+
+13180;13062;sea;6078;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+8643;12977;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13151;13022;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13036;13151;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+246;12954;sea;6076;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13132;12995;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+12995;8643;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13158;13036;sea;6077;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13185;13072;sea;6078;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13072;13195;sea;6078;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13072;13180;sea;6078;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+13195;13084;sea;6078;-1;-1;-1;-1;;North Dakota Missouri River Crossings
+
+13225;8731;sea;6069;-1;-1;-1;-1;;North Dakota James River Crossings
+13335;13145;sea;6071;-1;-1;-1;-1;;North Dakota James River Crossings
+13340;13161;sea;6071;-1;-1;-1;-1;;North Dakota James River Crossings
+13247;13175;sea;6071;-1;-1;-1;-1;;North Dakota James River Crossings
+13175;13342;sea;6071;-1;-1;-1;-1;;North Dakota James River Crossings
+13342;13188;sea;6070;-1;-1;-1;-1;;North Dakota James River Crossings
+13389;13207;sea;6070;-1;-1;-1;-1;;North Dakota James River Crossings
+13388;13212;sea;6070;-1;-1;-1;-1;;North Dakota James River Crossings
+
+14714;14704;sea;5916;-1;-1;-1;-1;;Red River Crossings
+14716;14707;sea;5916;-1;-1;-1;-1;;Red River Crossings
+14710;13264;sea;5911;-1;-1;-1;-1;;Red River Crossings
+13261;14709;sea;5911;-1;-1;-1;-1;;Red River Crossings
+14491;13120;sea;5916;-1;-1;-1;-1;;Red River Crossings
+14691;14666;sea;5908;-1;-1;-1;-1;;Red River Crossings
+14689;14671;sea;5903;-1;-1;-1;-1;;Red River Crossings
+
+13256;14702;sea;5902;-1;-1;-1;-1;;Assiniboine River Crossings
+14701;13256;sea;5902;-1;-1;-1;-1;;Assiniboine River Crossings
+16384;14701;sea;5902;-1;-1;-1;-1;;Assiniboine River Crossings
+14483;14698;sea;5908;-1;-1;-1;-1;;Assiniboine River Crossings
+14694;14665;sea;5908;-1;-1;-1;-1;;Assiniboine River Crossings
+16381;14668;sea;5903;-1;-1;-1;-1;;Assiniboine River Crossings
+14673;14685;sea;5904;-1;-1;-1;-1;;Assiniboine River Crossings
+14682;14676;sea;5904;-1;-1;-1;-1;;Assiniboine River Crossings
+
+13668;13820;sea;5872;-1;-1;-1;-1;;Saskatchewan River Crossings
+14339;13825;sea;5873;-1;-1;-1;-1;;Saskatchewan River Crossings
+13723;13825;sea;5873;-1;-1;-1;-1;;Saskatchewan River Crossings
+14329;14315;sea;5887;-1;-1;-1;-1;;Saskatchewan River Crossings
+14315;14328;sea;5887;-1;-1;-1;-1;;Saskatchewan River Crossings
+14319;14332;sea;5886;-1;-1;-1;-1;;Saskatchewan River Crossings
+14541;14614;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+14614;14542;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+14542;14613;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+14612;14542;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+14612;14539;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+12881;14544;sea;5899;-1;-1;-1;-1;;Saskatchewan River Crossings
+12881;14619;sea;5889;-1;-1;-1;-1;;Saskatchewan River Crossings
+14622;14547;sea;5890;-1;-1;-1;-1;;Saskatchewan River Crossings
+14634;14178;sea;5897;-1;-1;-1;-1;;Saskatchewan River Crossings
+
+5905;6279;sea;16358;-1;-1;-1;-1;Dauphin Lake River Access;Adjacency Rule Link for Dauphin Canal
+
+13307;13298;sea;6279;-1;-1;-1;-1;;Rock Ridge Island
+13307;13314;sea;6277;-1;-1;-1;-1;;Rock Ridge Island
+
+16348;16339;sea;5898;-1;-1;-1;-1;;Lake Winnipegosis
+
+854;18635;sea;554;-1;-1;-1;-1;;Future Expansion Zone River Crossings
+
+1850;1057;sea;5965;-1;-1;-1;-1;;Maxson To Robot City Crossing
+7813;7812;sea;5966;-1;-1;-1;-1;;Maxson To Robot City Crossing
+
+4454;7986;sea;6056;-1;-1;-1;-1;;Plaguelands Checkpoint Alpha Crossing
+3634;8001;sea;6054;-1;-1;-1;-1;;Plaguelands Arcadia-Platte Crossings Crossing
+
+4402;4403;sea;527;-1;-1;-1;-1;;Frozen Isles Kitessing Territory River Crossings
+4409;4403;sea;527;-1;-1;-1;-1;;Frozen Isles Kitessing Territory River Crossings
+4418;4403;sea;527;-1;-1;-1;-1;;Frozen Isles Kitessing Territory River Crossings
+
+9627;9208;sea;315;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+9208;9626;sea;303;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+9626;1996;sea;303;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+9624;9207;sea;303;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+9207;9625;sea;303;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+9625;2407;sea;303;-1;-1;-1;-1;;Channel Islands (Two Harbour) River Crossings
+
+19620;19622;sea;19661;-1;-1;-1;-1;;Florida Canal
+19617;19621;sea;19661;-1;-1;-1;-1;;Florida Canal
+19623;19625;sea;19661;-1;-1;-1;-1;;Florida Canal
+19756;19623;sea;19660;-1;-1;-1;-1;;Florida Canal
+19755;19677;sea;19660;-1;-1;-1;-1;;Florida Canal
+19753;19670;sea;19659;-1;-1;-1;-1;;Florida Canal
+19754;19674;sea;19659;-1;-1;-1;-1;;Florida Canal
+19730;19664;sea;19658;-1;-1;-1;-1;;Florida Canal
+
+19762;19760;sea;120;-1;-1;-1;-1;;Cape Canaveral
+19759;19758;sea;120;-1;-1;-1;-1;;Cape Canaveral
+
+19881;19879;sea;543;-1;-1;-1;-1;;Cape Coral
+19874;19873;sea;543;-1;-1;-1;-1;;Cape Coral
+
+19856;19854;sea;293;-1;-1;-1;-1;;Marco Island
+19905;19897;sea;543;-1;-1;-1;-1;;Barron Collier Bridge
+
+19808;19946;sea;516;-1;-1;-1;-1;;Sunshine Skyway Bridge
+19808;19813;sea;516;-1;-1;-1;-1;;Howard Frankland Bridge
+
+19839;19837;sea;357;-1;-1;-1;-1;;Florida Keys
+19834;19833;sea;513;-1;-1;-1;-1;;Florida Keys
+19833;19832;sea;513;-1;-1;-1;-1;;Florida Keys
+19832;19831;sea;513;-1;-1;-1;-1;;Florida Keys
+19831;19830;sea;513;-1;-1;-1;-1;;Florida Keys
+
+20179;16443;sea;224;-1;-1;-1;-1;;Louisiana Island Chains
+20179;20175;sea;224;-1;-1;-1;-1;;Louisiana Island Chains
+
+16493;11830;sea;5939;-1;-1;-1;-1;;Louisiana Krotz Springs US 190
+16495;16552;sea;5941;-1;-1;-1;-1;;Louisiana John James Audubon Bridge
+
+20193;20226;sea;5893;-1;-1;-1;-1;;Poplar River to Nunavut
+20193;20195;sea;5893;-1;-1;-1;-1;;Poplar River to Nunavut
+13274;20206;sea;7509;-1;-1;-1;-1;;Arborg to Hollow Water
+
+21575;5118;sea;6132;-1;-1;-1;-1;;Northern Minnesota
+21575;660;sea;6132;-1;-1;-1;-1;;Northern Minnesota
+21619;8866;sea;6135;-1;-1;-1;-1;;Northern Minnesota
+21629;8869;sea;6135;-1;-1;-1;-1;;Northern Minnesota
+
+14768;20205;sea;6140;-1;-1;-1;-1;;Ontario
+
+21066;20288;sea;1447;-1;-1;-1;-1;;Mackinac Bridge
+20284;15054;sea;6138;-1;-1;-1;-1;;Sault Ste. Marie
+15057;15047;sea;6138;-1;-1;-1;-1;;Sault Ste. Marie
+
+14164;13322;sea;5910;-1;-1;-1;-1;;Pakoseyimowin to Northern Dam Array
+14163;13321;sea;5910;-1;-1;-1;-1;;Pakoseyimowin to Easterville
+
+3106;6408;sea;3069;-1;-1;-1;-1;;VanBuren Grand Canyon Crossing
+
+13442;21626;sea;5917;-1;-1;-1;-1;;
+13254;21592;sea;5912;-1;-1;-1;-1;;
+13250;21531;sea;5912;-1;-1;-1;-1;;
+21075;21466;sea;5913;-1;-1;-1;-1;;
+16323;21426;sea;5914;-1;-1;-1;-1;;
+21186;21340;sea;6126;-1;-1;-1;-1;;
+21172;21305;sea;6125;-1;-1;-1;-1;;
+21156;21300;sea;6125;-1;-1;-1;-1;;
+21261;21270;sea;6124;-1;-1;-1;-1;;
+21262;21270;sea;6124;-1;-1;-1;-1;;
+
+21298;21313;sea;6124;-1;-1;-1;-1;;
+21316;21299;sea;6124;-1;-1;-1;-1;;
+21325;21329;sea;6127;-1;-1;-1;-1;;
+21299;21329;sea;6123;-1;-1;-1;-1;;
+21299;21319;sea;6123;-1;-1;-1;-1;;
+
+21359;21361;sea;6128;-1;-1;-1;-1;;
+21402;21407;sea;6128;-1;-1;-1;-1;;
+21437;21438;sea;6129;-1;-1;-1;-1;;
+21437;21420;sea;6129;-1;-1;-1;-1;;
+
+21451;21468;sea;6129;-1;-1;-1;-1;;
+21516;21529;sea;6130;-1;-1;-1;-1;;
+21521;21536;sea;6131;-1;-1;-1;-1;;
+
+21309;21719;sea;6121;-1;-1;-1;-1;;
+21309;21292;sea;6123;-1;-1;-1;-1;;
+21317;21740;sea;6121;-1;-1;-1;-1;;
+21343;21752;sea;6121;-1;-1;-1;-1;;
+21380;21778;sea;6122;-1;-1;-1;-1;;
+21713;21286;sea;6120;-1;-1;-1;-1;;
+21213;21665;sea;6119;-1;-1;-1;-1;;
+21267;21696;sea;6120;-1;-1;-1;-1;;
+21243;21681;sea;6119;-1;-1;-1;-1;;
+
+3743;21083;sea;6063;-1;-1;-1;-1;;
+3743;21080;sea;6062;-1;-1;-1;-1;;
+5132;21090;sea;6067;-1;-1;-1;-1;;
+5127;21099;sea;6067;-1;-1;-1;-1;;
+4420;21106;sea;6067;-1;-1;-1;-1;;
+4414;21123;sea;6068;-1;-1;-1;-1;;
+5119;21179;sea;6069;-1;-1;-1;-1;;
+21832;21831;sea;8375;-1;-1;-1;-1;;
+21823;21831;sea;8375;-1;-1;-1;-1;;
+10663;10653;sea;113;-1;-1;-1;-1;;
+10648;10642;sea;82;-1;-1;-1;-1;;
+10540;10550;sea;83;-1;-1;-1;-1;;
+10537;10544;sea;5883;-1;-1;-1;-1;;
+10537;10547;sea;5883;-1;-1;-1;-1;;
+10017;10098;sea;9983;-1;-1;-1;-1;;
+10017;9961;sea;9983;-1;-1;-1;-1;;
+10026;10043;sea;9983;-1;-1;-1;-1;;
+10043;10078;sea;9983;-1;-1;-1;-1;;
+10078;10103;sea;9983;-1;-1;-1;-1;;
+10147;10176;sea;9983;-1;-1;-1;-1;;
+10176;10209;sea;10028;-1;-1;-1;-1;;
+9795;9845;sea;9819;-1;-1;-1;-1;;
+9845;9855;sea;9819;-1;-1;-1;-1;;
+9845;9901;sea;9819;-1;-1;-1;-1;;
+9901;9884;sea;9898;-1;-1;-1;-1;;
+10197;10252;sea;10206;-1;-1;-1;-1;;
+10252;10264;sea;10206;-1;-1;-1;-1;;
+10264;10265;sea;10206;-1;-1;-1;-1;;
+10265;10280;sea;10206;-1;-1;-1;-1;;
+10280;10292;sea;10206;-1;-1;-1;-1;;
+10292;10350;sea;10206;-1;-1;-1;-1;;

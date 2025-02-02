@@ -1,0 +1,20 @@
+state={
+	id=1011
+	name="STATE_1011"
+
+	history = {
+		owner = BDA 
+		add_core_of = BDA 
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		10246 10321 10349 10754 10285 10397
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -3,7 +3,7 @@ characters={
 		name="We"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/VDM/VDM_placeholder.dds"
 			}
 		}
 		field_marshal={

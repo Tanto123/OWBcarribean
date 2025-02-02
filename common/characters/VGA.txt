@@ -3,7 +3,7 @@ characters={
 		name="Gobernador Jerónimo Murillo"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/VGA/VGA_placeholder.dds"
 			}
 		}
 		field_marshal={
