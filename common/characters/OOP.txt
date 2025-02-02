@@ -1,9 +1,9 @@
 characters={
-	OUA_Casimir={
+	OOP_Casimir={
 		name="Wa Dominique II Casimir"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/OOP/Casimir.dds"
 			}
 		}
 		field_marshal={

@@ -3,7 +3,7 @@ characters={
 		name="Wa David Toussaint"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/OUA/Toussaint.dds"
 			}
 		}
 		field_marshal={

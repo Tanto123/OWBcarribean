@@ -3,7 +3,7 @@ characters={
 		name="Alfonso Noriega-Ortega"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/PCO/Ortega.dds"
 			}
 		}
 		field_marshal={

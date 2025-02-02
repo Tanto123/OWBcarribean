@@ -3,7 +3,7 @@ characters={
 		name="Harris the Brute"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/MER/Harris.dds"
 			}
 		}
 		field_marshal={

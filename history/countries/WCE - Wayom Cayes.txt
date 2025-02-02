@@ -1,6 +1,10 @@
 ﻿capital = 849
 
-WCE = { puppet = TOR }
+set_autonomy = {
+	target = WCE
+	autonomy_state = colony
+}
+
 
 recruit_character = WCE_Belizaire
 

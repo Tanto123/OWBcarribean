@@ -3,7 +3,7 @@ characters={
 		name="Pious Representative Clyde Scuthers"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/SAO/Scuthers.dds"
 			}
 		}
 		field_marshal={

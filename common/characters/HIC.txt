@@ -3,7 +3,7 @@ characters={
 		name="Wa Jonathan II Occean"
 		portraits={
 			civilian={
-				large="gfx/leaders/USH/Hackliff.dds"
+				large="gfx/leaders/HIC/Occean.dds"
 			}
 		}
 		field_marshal={

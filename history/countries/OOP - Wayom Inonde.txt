@@ -1,6 +1,6 @@
 ﻿capital = 850
 
-recruit_character = OUA_Casimir
+recruit_character = OOP_Casimir
 
 set_technology = {
 	infantry_tech_level_tribal = 1
