@@ -1,0 +1,37 @@
+ideas = {
+	country = {
+		VGA_paranoidgovernor = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.08
+war_support_factor = -0.1
+political_power_gain = -0.15
+stability_factor = 0.1
+			}
+		}
+		VGA_silentopposition = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = -0.05
+intellectuals_drift = 0.05
+people_drift = 0.05
+			}
+		}
+	}
+}

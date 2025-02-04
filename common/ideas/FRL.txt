@@ -1,0 +1,35 @@
+ideas = {
+	country = {
+		FRL_memoryofunclesam = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+war_support_factor = 0.1
+stability_factor = 0.1
+			}
+		}
+		FRL_crumblinginfrastructure = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.15
+production_speed_buildings_factor = -0.15
+stability_factor = -0.15
+			}
+		}
+	}
+}

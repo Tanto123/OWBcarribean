@@ -1,0 +1,35 @@
+ideas = {
+	country = {
+		HIG_fanaticalmonarchy = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				conscription = 0.001
+				war_support_factor = 0.1
+			}
+		}
+		HIG_romanasugarmills = {
+			picture = kha_a_new_silk_road
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.05
+			caps_income_modifier = 0.15
+stability_factor = -0.05
+			}
+		}
+	}
+}

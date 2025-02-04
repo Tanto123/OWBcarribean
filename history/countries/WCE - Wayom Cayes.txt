@@ -1,10 +1,9 @@
 ﻿capital = 849
 
 set_autonomy = {
-	target = WCE
+	target = TOR
 	autonomy_state = colony
 }
-
 
 recruit_character = WCE_Belizaire
 
@@ -97,4 +96,9 @@ set_popularities = {
 	elites = 0
 	intellectuals = 0
 	ruler = 100
+}
+add_ideas = {
+WCE_suspicionofadmiral
+WCE_saltonrelations
+WCE_Vodouists
 }

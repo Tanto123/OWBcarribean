@@ -1,0 +1,52 @@
+ideas = {
+	country = {
+		PYS_batistadebauchery = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.1
+war_support_factor = -0.1
+stability_factor = 0.1
+			}
+		}
+		PYS_boilingclassrevolution = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+people_drift = 0.05
+stability_factor = -0.1
+recruitable_population_factor = -0.05
+			}
+		}
+		PYS_conspiringrulingclass = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+political_power_factor = -0.05
+stability_factor = -0.05
+ruler_drift = 0.01
+			}
+		}
+	}
+}

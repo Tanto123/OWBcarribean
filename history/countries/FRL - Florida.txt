@@ -92,3 +92,8 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 20
 }
+
+add_ideas = {
+FRL_memoryofunclesam
+FRL_crumblinginfrastructure
+}

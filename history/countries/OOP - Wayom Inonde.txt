@@ -92,3 +92,7 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 20
 }
+add_ideas = {
+OOP_loneprotestant
+OOP_peacefulunequalparliament
+}

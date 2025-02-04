@@ -92,3 +92,7 @@ set_popularities = {
 }
 
 recruit_character = SDG_Alvarez
+add_ideas = {
+SDG_risingideologues
+SDG_fanaticalrepublic
+}

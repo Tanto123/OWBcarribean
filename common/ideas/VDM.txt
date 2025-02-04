@@ -1,0 +1,50 @@
+ideas = {
+	country = {
+		VDM_Isolated = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.2
+			}
+		}
+		VDM_Remember = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+army_core_defence_factor = 0.1
+war_support_factor = 0.15
+			}
+		}
+		VDM_unitedinwe = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = 0.1
+army_org_factor = 0.05
+planning_speed = 0.05
+recruitable_population_factor = 0.1
+			}
+		}
+	}
+}

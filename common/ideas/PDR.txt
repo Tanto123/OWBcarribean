@@ -1,0 +1,38 @@
+ideas = {
+	country = {
+		PDR_strongdemocracy = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = 0.05
+intellectuals_drift = 0.05
+people_drift = 0.05
+			}
+		}
+		PDR_expansionistmilitary = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+justify_war_goal_time = -0.1
+war_support_factor = 0.05
+stability_factor = -0.1
+political_power_gain = -0.15
+ruler_drift = 0.05
+			}
+		}
+	}
+}

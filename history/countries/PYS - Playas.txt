@@ -92,3 +92,9 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 0
 }
+
+add_ideas = {
+PYS_batistadebauchery
+PYS_boilingclassrevolution
+PYS_conspiringrulingclass
+}

@@ -1,0 +1,36 @@
+ideas = {
+	country = {
+		LCB_partisanarmy = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+war_support_factor = 0.1
+army_org_factor = 0.1
+army_attack_factor = 0.05
+enemy_attrition = 0.08
+			}
+		}
+		LCB_generalocracy = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+war_support_factor = 0.05
+stability_factor = 0.1
+			}
+		}
+	}
+}

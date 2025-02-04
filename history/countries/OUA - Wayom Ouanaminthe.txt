@@ -92,3 +92,7 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 100
 }
+add_ideas = {
+OUA_conspiringrulingfamily
+EPL_failedthirdcrusade
+}

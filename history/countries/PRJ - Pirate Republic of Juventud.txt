@@ -92,3 +92,9 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 0
 }
+
+add_ideas = {
+PRJ_experiencedsailors
+PRJ_poorlandforce
+PRJ_tithingcaribbeantrade
+}

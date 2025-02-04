@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		SHB_largebureaucracy = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = 0.15
+political_power_factor = -0.05
+			}
+		}
+		SHB_vocalopposition = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = -0.1
+					people_drift = 0.05
+					intellectuals_drift = 0.05
+			}
+		}
+		SHB_politicalizedmilitary = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = 0.1
+army_org_factor = -0.05
+					ruler_drift = 0.05
+			}
+		}
+	}
+}

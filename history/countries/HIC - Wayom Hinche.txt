@@ -92,3 +92,9 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 0
 }
+add_ideas = {
+HIC_silvertongue
+HIC_jonathanambitions
+HIC_bulwarkagainstpagans
+EPL_failedthirdcrusade
+}

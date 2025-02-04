@@ -129,3 +129,9 @@ set_popularities = {
 }
 
 recruit_character = USH_Governor-General_Troy_Hackliff
+
+add_ideas = {
+USH_guidetoamerica
+USH_lastbastionofamerica
+USH_BunkerMindset
+}

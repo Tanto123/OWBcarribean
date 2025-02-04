@@ -1,0 +1,34 @@
+ideas = {
+	country = {
+		OOP_loneprotestant = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+surrender_limit = 0.1
+war_support_factor = 0.08
+			}
+		}
+		OOP_peacefulunequalparliament = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+stability_factor = -0.1
+political_power_factor = 0.05
+			}
+		}
+	}
+}

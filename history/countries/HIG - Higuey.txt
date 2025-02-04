@@ -94,3 +94,8 @@ set_popularities = {
 recruit_character = HIG_salazar
 
 recruit_character = HIG_salazar1
+
+add_ideas = {
+HIG_fanaticalmonarchy
+HIG_romanasugarmills
+}

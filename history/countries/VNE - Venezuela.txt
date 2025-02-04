@@ -93,3 +93,8 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 100
 }
+
+add_ideas = {
+VNE_grausdistate
+VNE_forcedreclamationefforts
+}

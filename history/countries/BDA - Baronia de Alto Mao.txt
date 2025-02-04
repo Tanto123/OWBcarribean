@@ -92,3 +92,7 @@ set_popularities = {
 }
 
 recruit_character = BDA_AntonioLagos
+add_ideas = {
+BDA_bunkerbarons
+BDA_disciplinedarmy
+}

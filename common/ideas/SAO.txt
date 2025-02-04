@@ -1,0 +1,34 @@
+ideas = {
+	country = {
+		SAO_SaltTrade = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				caps_income_modifier = 0.2
+				local_resources_factor = 0.05
+			}
+		}
+		SAO_ChurchofAtom = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				monthly_population = 0.05
+				stability_factor = 0.1
+			}
+		}
+	}
+}

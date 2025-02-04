@@ -14,7 +14,7 @@ state = {
 			infrastructure = 1
 		}
 	}
-	manpower = 8700
+	manpower = 4700
 	state_category = rural
 	buildings_max_level_factor = 1.000
 }

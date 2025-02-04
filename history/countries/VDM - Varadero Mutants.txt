@@ -92,3 +92,9 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 0
 }
+
+add_ideas = {
+VDM_Isolated
+VDM_Remember
+VDM_unitedinwe
+}

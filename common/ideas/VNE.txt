@@ -1,0 +1,38 @@
+ideas = {
+	country = {
+		VNE_grausdistate = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+political_power_gain = 0.15
+stability_factor = -0.1
+elite_drift = -0.05
+people_drift = -0.05
+			}
+		}
+		VNE_forcedreclamationefforts = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+consumer_goods_factor = -0.1
+production_speed_buildings_factor = 0.15
+stability_factor = -0.1
+recruitable_population_factor = -0.05
+			}
+		}
+	}
+}

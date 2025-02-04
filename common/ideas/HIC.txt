@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		HIC_silvertongue = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+opinion_gain_monthly_factor = 0.2
+stability_factor = 0.1
+intel_network_gain_factor = 0.15
+			}
+		}
+		HIC_jonathanambitions = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+war_support_factor = 0.05
+justify_war_goal_time = -0.15
+			}
+		}
+		HIC_bulwarkagainstpagans = {
+			picture = generic_BOS_idea_steel_legions
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+war_support_factor = 0.05
+consumer_goods_factor = 0.1
+conscription_factor = 0.05
+			}
+		}
+	}
+}

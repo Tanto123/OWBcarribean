@@ -92,3 +92,8 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 20
 }
+
+add_ideas = {
+LCB_generalocracy
+LCB_partisanarmy
+}

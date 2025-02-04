@@ -92,3 +92,10 @@ set_popularities = {
 	intellectuals = 0
 	ruler = 0
 }
+
+
+add_ideas = {
+SHB_largebureaucracy
+SHB_politicalizedmilitary
+SHB_vocalopposition
+}
