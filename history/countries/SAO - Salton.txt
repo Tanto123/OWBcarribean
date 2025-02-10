@@ -97,3 +97,38 @@ add_ideas = {
 SAO_ChurchofAtom
 SAO_SaltTrade
 }
+
+opinion_modifiers = {
+	haitia_reactionaries = { value = -50 }
+	haitia_zealots = { value = -50 }
+}
+
+add_opinion_modifier = {
+    target = EPL
+    modifier = haitia_zealots
+}
+
+add_opinion_modifier = {
+    target = HIC
+    modifier = haitia_zealots
+}
+
+add_opinion_modifier = {
+    target = OUA
+    modifier = haitia_zealots
+}
+
+add_opinion_modifier = {
+    target = OOP
+    modifier = haitia_reactionaries
+}
+
+add_opinion_modifier = {
+    target = WCE
+    modifier = haitia_reactionaries
+}
+
+add_opinion_modifier = {
+    target = TOR
+    modifier = haitia_reactionaries
+}

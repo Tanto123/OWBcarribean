@@ -11,12 +11,12 @@ ideas = {
 			}
 			removal_cost = -1
 			modifier = {
-consumer_goods_factor = 0.1
-war_support_factor = 0.15
-stability_factor = -0.15
-min_export = -1
-trade_opinion_factor = -1
-surrender_limit = 0.1
+				consumer_goods_factor = 0.1
+				war_support_factor = 0.15
+				stability_factor = -0.15
+				min_export = -1
+				trade_opinion_factor = -1
+				surrender_limit = 0.1
 			}
 		}
 		USH_lastbastionofamerica = {
@@ -30,21 +30,13 @@ surrender_limit = 0.1
 			}
 			removal_cost = -1
 			equipment_bonus = {
-				enclave_power_armour_equipment_1 = {
+				power_armor_equipment = {
 					armor_value = -0.2
 					hardness = -0.2
-					reliability = -0.05
+					reliability = -0.2
+					build_cost_ic = 0.50
 					instant = yes
 				}
-				enclave_power_armour_equipment_2 = {
-					armor_value = -0.25
-					hardness = -0.25
-					reliability = -0.05
-					instant = yes
-				}
-			}
-			modifier = {
-				custom_modifier_tooltip = eur_apa_disrepair_tt
 			}
 		}
 		USH_guidetoamerica = {
@@ -58,8 +50,8 @@ surrender_limit = 0.1
 			}
 			removal_cost = -1
 			modifier = {
-political_power_gain = -0.35
-justify_war_goal_time = 1
+				political_power_gain = -0.35
+				justify_war_goal_time = 1
 			}
 		}
 	}

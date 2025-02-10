@@ -1,0 +1,5 @@
+opinion_modifiers = {
+	haitia_reactionaries = { value = -30 }
+	haitia_zealots = { value = -60 }
+	haitia_heretics = { value = -90 }
+}

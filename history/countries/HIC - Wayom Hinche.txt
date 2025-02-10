@@ -98,3 +98,23 @@ HIC_jonathanambitions
 HIC_bulwarkagainstpagans
 EPL_failedthirdcrusade
 }
+
+add_opinion_modifier = {
+    target = SAO
+    modifier = neutral_diplomatic_ground
+}
+
+add_opinion_modifier = {
+    target = WCE
+    modifier = haitia_heretics
+}
+
+add_opinion_modifier = {
+    target = TOR
+    modifier = haitia_heretics
+}
+
+add_opinion_modifier = {
+    target = OOP
+    modifier = haitia_heretics
+}

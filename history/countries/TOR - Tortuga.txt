@@ -97,3 +97,22 @@ TOR_focusedonpacification
 TOR_dedicatedtoblocade
 TOR_experiencednavy
 }
+add_opinion_modifier = {
+    target = SAO
+    modifier = neutral_diplomatic_ground
+}
+
+add_opinion_modifier = {
+    target = HIC
+    modifier = haitia_heretics
+}
+
+add_opinion_modifier = {
+    target = EPL
+    modifier = haitia_heretics
+}
+
+add_opinion_modifier = {
+    target = OUA
+    modifier = haitia_heretics
+}

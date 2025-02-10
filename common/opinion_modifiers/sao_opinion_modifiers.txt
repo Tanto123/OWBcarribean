@@ -1,0 +1,3 @@
+opinion_modifiers = {
+	neutral_diplomatic_ground = { value = 30 }
+}
